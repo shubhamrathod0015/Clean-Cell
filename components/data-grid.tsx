@@ -179,7 +179,8 @@ export default function DataGrid() {
       <TableBody>
         {state.workers.map((worker, index) => (
           <TableRow
-            key={worker.WorkerID}
+            // key={worker.WorkerID}
+            key={`${worker.WorkerID ?? "worker"}-${index}`}
             className={getValidationStatus("workers", index) === "error" ? "bg-red-50" : ""}
           >
             <TableCell>{renderCell(worker.WorkerID, "workers", index, "WorkerID")}</TableCell>
