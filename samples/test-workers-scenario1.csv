@@ -1,0 +1,16 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W001,Sarah Chen,"React,TypeScript,Next.js,Tailwind","[1,2,3,4]",3,Frontend,5
+W002,Marcus Johnson,"Python,Django,PostgreSQL,Redis","[1,3,5,6]",4,Backend,5
+W003,Elena Rodriguez,"Java,Spring Boot,Microservices,Kafka","[2,4,5,6]",3,Backend,4
+W004,David Kim,"React Native,Flutter,iOS,Android","[1,2,4,5]",2,Mobile,4
+W005,Priya Patel,"Node.js,Express,MongoDB,GraphQL","[1,2,3,5,6]",4,Fullstack,5
+W006,Alex Thompson,"Vue.js,Nuxt.js,JavaScript,CSS","[2,3,4]",2,Frontend,3
+W007,Maria Santos,"C#,.NET Core,Azure,SQL Server","[1,3,4,5]",3,Backend,4
+W008,James Wilson,"DevOps,Docker,Kubernetes,AWS","[1,2,3,4,5,6]",5,DevOps,5
+W009,Lisa Wang,"UI/UX,Figma,Adobe XD,Prototyping","[1,2,3]",2,Design,4
+W010,Robert Brown,"Python,FastAPI,Machine Learning,TensorFlow","[2,4,5,6]",3,AI/ML,5
+W011,Anna Kowalski,"PHP,Laravel,MySQL,WordPress","[1,3,4,5]",3,Backend,3
+W012,Tom Anderson,"Angular,TypeScript,RxJS,NgRx","[2,3,5,6]",3,Frontend,4
+W013,Fatima Al-Zahra,"Data Science,Python,Pandas,Jupyter","[1,2,4,6]",3,Analytics,4
+W014,Carlos Mendoza,"Go,gRPC,Distributed Systems,Redis","[1,3,4,5,6]",4,Backend,5
+W015,Jennifer Lee,"QA,Selenium,Jest,Cypress,Testing","[1,2,3,4,5,6]",4,QA,4

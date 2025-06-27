@@ -1,0 +1,31 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W001,Alice Johnson,"JavaScript,React,Frontend","[1,2,3,4,5]",3,Frontend,4
+W002,Bob Smith,"Python,Django,Backend","[1,2,4,6]",4,Backend,5
+W003,Carol Davis,"Java,Spring,Database","[2,3,4,5]",3,Backend,4
+W004,David Wilson,"React,TypeScript,UI/UX","[1,3,5,6]",2,Frontend,3
+W005,Emma Brown,"Python,FastAPI,ML","[1,2,3,5,6]",4,Backend,5
+W006,Frank Miller,"Vue.js,Node.js,API","[2,4,5,6]",3,Fullstack,4
+W007,Grace Lee,"C#,.NET,Azure","[1,2,3,4]",3,Backend,4
+W008,Henry Chen,"React Native,Mobile,iOS","[3,4,5,6]",2,Mobile,3
+W009,Ivy Taylor,"DevOps,Docker,AWS","[1,2,4,5,6]",4,DevOps,5
+W010,Jack Anderson,"UI/UX,Figma,Design","[1,2,3]",2,Design,3
+W011,Kate Rodriguez,"PHP,Laravel,MySQL","[2,3,4,5]",3,Backend,3
+W012,Liam O'Connor,"Angular,TypeScript,Frontend","[1,3,4,6]",3,Frontend,4
+W013,Maya Patel,"Python,Data Science,Analytics","[1,2,5,6]",3,Analytics,5
+W014,Noah Kim,"Go,Microservices,API","[2,3,4,5,6]",4,Backend,4
+W015,Olivia Garcia,"Flutter,Dart,Mobile","[1,3,4,5]",2,Mobile,3
+W016,Paul Thompson,"Ruby,Rails,Backend","[1,2,3,4,5,6]",5,Backend,4
+W017,Quinn Martinez,"Kubernetes,DevOps,CI/CD","[2,4,5,6]",3,DevOps,5
+W018,Rachel White,"Salesforce,CRM,Integration","[1,2,3]",2,Integration,3
+W019,Sam Jackson,"Blockchain,Solidity,Web3","[3,4,5]",2,Blockchain,4
+W020,Tina Liu,"QA,Testing,Automation","[1,2,3,4,5,6]",4,QA,4
+W021,Uma Singh,"Data Engineering,ETL,BigData","[1,3,5,6]",3,DataEng,5
+W022,Victor Petrov,"Security,Penetration,Audit","[2,4,6]",2,Security,5
+W023,Wendy Chang,"Product Management,Agile,Scrum","[1,2,3,4,5]",3,PM,4
+W024,Xavier Dubois,"Machine Learning,AI,TensorFlow","[1,2,4,5,6]",4,AI,5
+W025,Yuki Tanaka,"Game Development,Unity,C#","[3,4,5,6]",3,GameDev,4
+W026,Zoe Adams,"Technical Writing,Documentation","[1,2,3,4]",2,TechWriter,3
+W027,Aaron Foster,"Embedded Systems,IoT,C++","[2,3,5,6]",3,Embedded,4
+W028,Bella Cooper,"Digital Marketing,SEO,Analytics","[1,2,4,5]",2,Marketing,3
+W029,Carlos Mendez,"Database Admin,PostgreSQL,MongoDB","[1,3,4,5,6]",4,DBA,5
+W030,Diana Ross,"Business Analysis,Requirements","[1,2,3,4,5]",3,BA,4

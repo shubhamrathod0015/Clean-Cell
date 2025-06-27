@@ -1,0 +1,51 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,User Authentication System,Backend,2,"Python,Django,Security","[1,2]",2
+T2,Frontend Dashboard,Frontend,3,"React,TypeScript,UI/UX","[2,3,4]",1
+T3,API Gateway Implementation,Backend,2,"Java,Spring,API","[1,3]",2
+T4,Mobile App Development,Mobile,4,"React Native,Mobile,iOS","[2,3,4,5]",1
+T5,Database Migration,Backend,3,"Database,PostgreSQL,Python","[1,2,3]",1
+T6,UI/UX Redesign,Design,2,"UI/UX,Figma,Design","[1,2]",2
+T7,Payment Gateway Integration,Backend,2,"Java,Spring,Integration","[3,4]",1
+T8,Real-time Chat Feature,Fullstack,3,"JavaScript,WebSocket,Node.js","[2,4,5]",2
+T9,Data Analytics Dashboard,Analytics,3,"Python,Data Science,Analytics","[3,4,5]",1
+T10,Landing Page Optimization,Frontend,1,"React,JavaScript,UI/UX","[1,2]",3
+T11,Security Audit,Security,2,"Security,Penetration,Audit","[4,5]",1
+T12,Performance Optimization,Backend,2,"Java,Database,Backend","[3,5]",2
+T13,Testing Framework Setup,QA,1,"QA,Testing,Automation","[4,6]",2
+T14,DevOps Pipeline,DevOps,3,"DevOps,Docker,CI/CD","[1,2,3]",1
+T15,Machine Learning Model,AI,4,"Machine Learning,Python,AI","[2,3,4,5]",1
+T16,Microservices Architecture,Backend,4,"Go,Microservices,API","[1,2,3,4]",1
+T17,Content Management System,Fullstack,3,"PHP,Laravel,MySQL","[2,3,4]",2
+T18,E-commerce Platform,Fullstack,5,"React,Node.js,Database","[1,2,3,4,5]",1
+T19,Blockchain Integration,Blockchain,3,"Blockchain,Solidity,Web3","[3,4,5]",1
+T20,Cloud Migration,DevOps,4,"AWS,DevOps,Docker","[1,2,3,4]",1
+T21,Customer Portal,Frontend,3,"Angular,TypeScript,Frontend","[2,3,4]",2
+T22,Inventory Management,Backend,3,"Python,Django,Database","[1,3,4]",1
+T23,Reporting System,Analytics,2,"Data Science,Analytics,Python","[3,4]",2
+T24,Social Media Integration,Integration,1,"API,Integration,JavaScript","[1,2]",3
+T25,Video Streaming Platform,Backend,5,"Java,Spring,Backend","[1,2,3,4,5]",1
+T26,IoT Device Management,Embedded,3,"IoT,C++,Embedded","[2,3,4]",1
+T27,Document Management,Backend,2,"Python,Database,Backend","[1,3]",2
+T28,Notification System,Backend,2,"Node.js,API,Backend","[2,4]",2
+T29,Search Engine Optimization,Marketing,1,"SEO,Marketing,Analytics","[1,2]",3
+T30,Business Intelligence,Analytics,4,"Data Engineering,ETL,BigData","[2,3,4,5]",1
+T31,CRM Integration,Integration,2,"Salesforce,CRM,Integration","[1,3]",2
+T32,Game Development,GameDev,4,"Unity,C#,Game Development","[2,3,4,5]",1
+T33,Technical Documentation,TechWriter,1,"Technical Writing,Documentation","[1,2,3]",4
+T34,Quality Assurance,QA,2,"QA,Testing,Automation","[3,4,5]",3
+T35,Data Warehouse,DataEng,4,"Data Engineering,ETL,Database","[1,2,3,4]",1
+T36,Product Roadmap,PM,1,"Product Management,Agile,Scrum","[1,2]",2
+T37,Compliance Audit,Security,2,"Security,Audit,Compliance","[4,5]",1
+T38,Marketing Automation,Marketing,2,"Marketing,Analytics,Automation","[2,3]",2
+T39,Legacy System Modernization,Backend,5,"Java,Database,Backend","[1,2,3,4,5]",1
+T40,Multi-tenant Architecture,Backend,4,"Python,Architecture,Backend","[2,3,4,5]",1
+T41,Real-time Monitoring,DevOps,2,"DevOps,Monitoring,AWS","[3,4]",2
+T42,Chatbot Development,AI,3,"AI,Machine Learning,Python","[2,3,4]",1
+T43,Workflow Automation,Backend,3,"Python,Automation,Backend","[1,2,3]",2
+T44,Data Visualization,Analytics,2,"Analytics,Visualization,JavaScript","[3,4]",2
+T45,API Documentation,TechWriter,1,"Documentation,API,Technical Writing","[1,2,3]",3
+T46,Load Testing,QA,1,"Testing,Performance,QA","[4,5]",2
+T47,Container Orchestration,DevOps,3,"Kubernetes,Docker,DevOps","[2,3,4]",1
+T48,Feature Flagging,Backend,1,"Backend,Configuration,API","[1,2]",3
+T49,User Onboarding,Frontend,2,"Frontend,UI/UX,JavaScript","[2,3]",2
+T50,Backup and Recovery,DevOps,2,"DevOps,Database,Backup","[4,5]",1

@@ -1,0 +1,22 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T101,Edge Case Task,Testing,2,"JavaScript,Testing","[1,2]",1
+T102,No Skills Task,Backend,1,"","[1]",1
+T103,Invalid Duration Task,Frontend,-1,"React,CSS","[2,3]",1
+T104,Zero Duration Task,Backend,0,"Python,Django","[1]",1
+T105,High Duration Task,Fullstack,20,"React,Node.js,Database","[1,2,3,4,5,6,7,8,9,10]",1
+T106,Duplicate Task ID,Testing,1,"Testing,QA","[4,5]",2
+T106,Another Duplicate,Testing,2,"Automation,Testing","[5,6]",1
+T107,Missing Name Task,,2,"Python,API","[2,3]",1
+T108,,"Backend",1,"Database,SQL","[1,2]",1
+T109,Zero Concurrent Task,Frontend,2,"React,JavaScript","[2,3]",0
+T110,High Concurrent Task,Testing,1,"Testing,QA","[1,2,3,4,5,6]",100
+T111,Invalid Phases Task,Backend,2,"Python,Django","[0,13,25]",1
+T112,Empty Phases Task,Frontend,1,"HTML,CSS","[]",1
+T113,Single Skill Task,Backend,1,"Python","[1,2]",1
+T114,Many Skills Task,Fullstack,3,"JavaScript,TypeScript,React,Vue,Angular,Node.js,Express,MongoDB,PostgreSQL,Redis,Docker,Kubernetes,AWS,Git,Testing","[1,2,3,4,5,6]",1
+T115,Special Characters Task,Backend,2,"C++,C#,.NET Core","[2,4]",1
+T116,Float Duration Task,Frontend,1.5,"React,CSS","[1,2]",1
+T117,Negative Concurrent,Backend,2,"Python,API","[3,4]",-1
+T118,Missing Category Task,,1,"JavaScript,Frontend","[1,2]",2
+T119,Very Long Task Name That Exceeds Normal Database Limits And Should Be Tested,Testing,1,"Testing,Edge Cases","[1]",1
+T120,Unicode Task 🚀,Modern,1,"React,Emoji Support","[1,2]",1

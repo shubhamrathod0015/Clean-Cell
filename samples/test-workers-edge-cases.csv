@@ -1,0 +1,17 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W101,Edge Worker 1,"JavaScript,React","[1,2,3]",2,Frontend,4
+W102,No Skills Worker,"","[1,2]",1,Backend,3
+W103,Invalid Slots Worker,"Python,Django","[0,11,15]",3,Backend,4
+W104,Overloaded Worker,"Java,Spring","[1,2]",5,Backend,3
+W105,Duplicate ID Test,"Vue.js,CSS","[3,4,5]",2,Frontend,4
+W105,Another Duplicate,"Angular,TypeScript","[1,2,4]",3,Frontend,5
+W106,Missing Name Worker,"PHP,MySQL","[1,3,5]",2,Backend,3
+W107,,"React,JavaScript","[2,4,6]",2,Frontend,4
+W108,Zero Qualification,"Python,Flask","[1,2,3,4]",3,Backend,0
+W109,High Qualification,"AI,Machine Learning,Deep Learning","[1,2,3,4,5,6]",4,AI,10
+W110,Single Skill Worker,"HTML","[1]",1,Frontend,2
+W111,Many Skills Worker,"JavaScript,TypeScript,React,Vue,Angular,Node.js,Express,MongoDB,PostgreSQL,Docker,AWS,Git","[1,2,3,4,5,6]",6,Fullstack,5
+W112,Special Chars Worker,"C++,C#,.NET","[2,4,6]",3,Backend,4
+W113,Empty Slots Worker,"Python,Django","[]",2,Backend,4
+W114,Negative Load Worker,"Ruby,Rails","[1,2,3]",-1,Backend,3
+W115,Float Values Worker,"Go,Kubernetes","[1.5,2.5,3.5]",2.5,Backend,4.5
