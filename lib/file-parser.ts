@@ -1,6 +1,6 @@
 export async function parseCSV(file: File): Promise<any[]> {
   return new Promise((resolve, reject) => {  
-    const reader = new FileReader()
+    const reader = new FileReader()  
 
     reader.onload = (e) => {
       try {
