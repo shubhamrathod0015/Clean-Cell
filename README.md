@@ -3,8 +3,8 @@
 > Transform messy spreadsheets into clean, validated data with AI-powered insights and intelligent rule creation.
 
 ## 🚀 **Live Demo**
-- **Deployed Application**: [Coming Soon - Deploy to Vercel]
-- **GitHub Repository**: [Your GitHub Link Here]
+- **Deployed Application**: `https://clean-cell.vercel.app/`
+- **GitHub Repository**: `https://github.com/shubhamrathod0015/Clean-Cell.git`
 - **Demo Video**: [Optional - Your Loom/YouTube Link]
 
 ## 📋 **Assignment Completion**
@@ -44,7 +44,7 @@
 ### Installation
 \`\`\`bash
 # Clone the repository
-git clone [https://github.com/shubhamrathod0015/Clean-Cell.git]
+git clone `https://github.com/shubhamrathod0015/Clean-Cell.git`
 cd data-alchemist
 
 # Install dependencies
@@ -192,10 +192,10 @@ No environment variables required for basic functionality.
 - **Completion Status**: All milestones completed (100%)
 
 ## 🤝 **Contact**
-- **Name**: [Shubham Rathod]
-- **Email**: [shubhamrathod0015@gmail.com]
-- **Phone**: [9370235900]
-- **Graduation Year**: [2025]
+- **Name**: Shubham Rathod
+- **Email**: shubhamrathod0015@gmail.com
+- **Phone**: 9370235900
+- **Graduation Year**: 2025
 
 ---
 
